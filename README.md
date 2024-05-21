@@ -1,4 +1,4 @@
-# **CICLOS**
+# **Actividad 08 - CICLOS**
 
 ### Ubicación del Script
 
@@ -11,3 +11,5 @@ Dentro de la carpeta "script" de este repo encontraran el script "ciclos.sh".
 + De no encontrar Buckets de ambiente QAS se mostrara en pantalla la leyenda "Todo en orden".  
 + Terminando esta validación mostrara el nombre del Grupo "Autobots" junto con la fecha y hora de ejecución del script.  
 - - -  
+
+### Instrucciones
